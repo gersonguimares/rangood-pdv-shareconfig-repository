@@ -1,0 +1,3 @@
+#API ORDER
+routing.rangood-pdv-order-management.service-id=rangood-pdv-order-management
+routing.rangood-pdv-order-management.path=/api-order/v1/**
